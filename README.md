@@ -13,6 +13,7 @@ Para testes, utilizei o Microsoft Excel como fonte de dados para armazenar as re
  * Quantidade - Denominar quanto do produto o cliente deseja solicitar.
  * Data (Data abreviada) - Data de retirada do produto.
  * Estado do produto (PENDENTE, EMITIDO, ENTREGUE) - Atualizar conforme o pedido.
+ 
  Um exemplo pode ser visto no [resultado de busca de dados](https://github.com/DevKewi/Transamerica#resultado)
 
 Para solicitar um determinado produto, interagir com a ferramenta de **Requisição**
