@@ -1,5 +1,7 @@
 # Projetos ao Hotel Transamérica ☆☆☆☆☆
 
+Este é um projeto que engloba todos os projetos que fiz ao Hotel, a finalidade de outros programadores auxiliar ou propor sugestões ao desenvolvimento.
+
 ## Iniciado
 
 Em meio ao ambiente corporativo, senti falta de ferramentas que deve satisfazer a eficiência de pesquisa e informações do cliente que querem um determinado produto, tendo base disso, desenvolvi um aplicativo com finalidade dinâmica em janelas(JFrame).
