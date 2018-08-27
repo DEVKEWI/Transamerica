@@ -128,3 +128,13 @@ try {
 ### Resultado:
 
 ![alt text](https://raw.githubusercontent.com/DevKewi/Transamerica/master/Adm.%20PUDIM/IMG/Screenshot_3.png)
+
+<h1 align="center"><img src="https://cdn2.iconfinder.com/data/icons/icontober/64/Inkcontober_United-64.png"><br>Colabore</h1>
+<p align="center"> Gostou dos meus projetos e deseja colaborar para dar continuidade ao meu trabalho?<br>
+<a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=214816725-9afb283c-50e4-4a2a-8c40-44ed950b3661">R$ 5,00</a> | 
+ <a href="https://www.mercadopago.com/mlb/checkout/start?pref_id=214816725-a7b4a6b4-4477-45d3-8c39-58c03a389922">R$ 10,00</a> | 
+ <a href="https://www.mercadopago.com/mlb/checkout/start?pref_id=214816725-ceb3532a-0cf1-4879-856c-6793f48b23c2">R$ 15,00</a>
+<br><br>
+<i>Deseja outro valor? Contacte-me</i>
+<br><br><br>
+ <i><b>DISTRIBUIDO POR KEWILLEEN GOMES (DEVKEWI)</b></i></p>
