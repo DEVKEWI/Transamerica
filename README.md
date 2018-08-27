@@ -7,7 +7,7 @@ Este é um projeto que engloba todos os projetos que fiz ao Hotel, a finalidade 
 Em meio ao ambiente corporativo, senti falta de ferramentas que deve satisfazer a eficiência de pesquisa e informações do cliente que querem um determinado produto, tendo base disso, desenvolvi um aplicativo com finalidade dinâmica em janelas(JFrame).
 
 <h2 align="center">PROJETOS FEITOS:</h2>
-<p align="center"><b><a href="https://github.com/DEVKEWI/Transamerica#requisi%C3%A7%C3%A3o-de-pudins">Admin. de Pudim</a> | <a href="#">Admin. de Vencimentos</a> | <a href="#">Futuro</a></b></p>
+<p align="center"><b><a href="https://github.com/DEVKEWI/Transamerica#requisi%C3%A7%C3%A3o-de-pudins">Admin. de Pudim</a> | <a href="https://github.com/DEVKEWI/Transamerica#administra%C3%A7%C3%A3o-de-validades">Admin. de Vencimentos</a> | <a href="#">Futuro</a></b></p>
 
 ### Administração de validade(s)
 
