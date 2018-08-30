@@ -33,42 +33,9 @@ public class Frigobar {
 
     public static void main(String[] args) {
         f = new Frigobar();
-        File f = new File(System.getProperty("user.home") + "\\Frigobar");
-        if (!f.exists()) {
-            f.mkdir();
-        }
-        File f2 = new File(f.getAbsolutePath() + "\\frigobar.txt");
-        Path p = f2.toPath();
-        try {
-            if (f2.exists() && getStringFile(p).equalsIgnoreCase("S")) {
-                System.exit(0);
-            }
-            if (!f2.exists()) {
-                f2.createNewFile();
-            }
-            BufferedWriter bw = new BufferedWriter(new FileWriter(f2));
-            bw.write("S");
-            bw.close();
-        } catch (IOException ex) {
-            sendInfo(0, ex.getMessage(), "Erro");
-        }
-        System.out.println(getStringFile(p));
         v = new Validation();
         v.checkValidation();
         display_v = v.getValidation();
-    }
-
-    private static String getStringFile(Path p) {
-        try {
-            InputStream in = Files.newInputStream(p);
-            BufferedReader reader = new BufferedReader(new InputStreamReader(in));
-            String line = reader.readLine();
-            in.close();
-            return line;
-        } catch (IOException ex) {
-            sendInfo(0, ex.getMessage(), "Erro");
-        }
-        return null;
     }
 
     /**
