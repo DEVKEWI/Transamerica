@@ -419,23 +419,6 @@ public class Validation {
      * @param frame
      */
     public void minimizar(final Frame frame) {
-        frame.addWindowListener(new WindowAdapter() {
-            @Override
-            public void windowClosing(WindowEvent e) {
-                File f = new File(System.getProperty("user.home") + "\\Frigobar");
-                if (!f.exists()) {
-                    f.mkdir();
-                }
-                File f2 = new File(f.getAbsolutePath() + "\\frigobar.txt");
-                try {
-                    BufferedWriter bw = new BufferedWriter(new FileWriter(f2));
-                    bw.write("N");
-                    bw.close();
-                } catch (IOException ex) {
-                    sendInfo(0, ex.getMessage(), "Erro");
-                }
-            }
-        });
         frame.addWindowStateListener(new WindowAdapter() {
             @Override
             public void windowStateChanged(WindowEvent evt) {
