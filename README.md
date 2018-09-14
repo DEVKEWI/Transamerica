@@ -137,4 +137,3 @@ try {
 <br><br>
 <i>Deseja outro valor? Contacte-me</i>
 <br><br><br>
- <i><b>DISTRIBUIDO POR KEWILLEEN GOMES (DEVKEWI)</b></i></p>
